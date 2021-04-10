@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact name="emq-hana-data-tunnel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/emq_hana_data_tunnel_jar</output-path>
+    <root id="root">
+      <element id="archive" name="emq-hana-data-tunnel.jar">
+        <element id="module-output" name="emq-hana-data-tunnel" />
+      </element>
+      <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-common:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-io:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.75" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-server:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-webapp:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-client:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-xml:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-server:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: com.sparkjava:spark-core:2.9.2" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-servlet:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-http:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-api:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-servlet:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-security:9.4.30.v20200611" />
+      <element id="library" level="project" name="Maven: org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5" />
+      <element id="library" level="project" name="Maven: cn.hutool:hutool-all:5.6.2" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-client:9.4.30.v20200611" />
+      <element id="library" level="project" name="ngdbc" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+      <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-util:9.4.30.v20200611" />
+    </root>
+  </artifact>
+</component>

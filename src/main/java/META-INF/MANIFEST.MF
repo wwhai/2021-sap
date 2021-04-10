@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: com.emqx.datatunnel.Main
+Class-Path: websocket-common-9.4.30.v20200611.jar jetty-io-9.4.30.v20200
+ 611.jar fastjson-1.2.75.jar websocket-server-9.4.30.v20200611.jar javax
+ .servlet-api-3.1.0.jar jetty-webapp-9.4.30.v20200611.jar websocket-clie
+ nt-9.4.30.v20200611.jar jetty-xml-9.4.30.v20200611.jar jetty-server-9.4
+ .30.v20200611.jar spark-core-2.9.2.jar jetty-servlet-9.4.30.v20200611.j
+ ar jetty-http-9.4.30.v20200611.jar websocket-api-9.4.30.v20200611.jar w
+ ebsocket-servlet-9.4.30.v20200611.jar jetty-security-9.4.30.v20200611.j
+ ar org.eclipse.paho.client.mqttv3-1.2.5.jar hutool-all-5.6.2.jar jetty-
+ client-9.4.30.v20200611.jar ngdbc.jar slf4j-api-1.7.25.jar jetty-util-9
+ .4.30.v20200611.jar
+
